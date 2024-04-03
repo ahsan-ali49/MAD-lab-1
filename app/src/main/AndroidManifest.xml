@@ -23,6 +23,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <!-- Register your GuessingGameActivity here -->
+        <activity android:name=".GuessingGameActivity" />
     </application>
 
 </manifest>
