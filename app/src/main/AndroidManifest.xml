@@ -24,7 +24,8 @@
             </intent-filter>
         </activity>
         <!-- Register your GuessingGameActivity here -->
-        <activity android:name=".GuessingGameActivity" />
+        <activity android:name=".GuessingGame"/>
+        <activity android:name=".MrPotato"/>
     </application>
 
 </manifest>
